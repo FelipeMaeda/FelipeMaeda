@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipemaeda&show_icons=true&theme=radical)
+![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipemaeda&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipemaeda&layout=compact)](https://github.com/FelipeMaeda/github-readme-stats)
