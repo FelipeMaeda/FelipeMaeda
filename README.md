@@ -1,6 +1,6 @@
 ### Hii there! 👋👋👋
 
-I'm Felipe Maeda, currently working at Alelo, a market leader in benefits in Brazil. I'm DevOps and SysAdm, but I like to program in Python. I've produced BackEnd programs in university activities.
+I'm Felipe Maeda, currently working at Alelo, a market leader in benefits in Brazil. I like to program in Python and I've produced BackEnd programs in university activities.
 
 <!--
 **FelipeMaeda/felipemaeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Alelo.
-- 🌱 I’m currently learning OpenShift, Terraform, Ansible, Python Scripts and agile methods.
+- 🔭 I’m DevOps Engineer at Alelo.
+- 🌱 I’m currently learning OpenShift, Terraform, Ansible, Python Scripts, culture DevOps and agile methods.
 - 🤔 I’m looking for help with English (i dont have a good english).
 - 💬 Ask me about any thing.
 - 📫 How to reach me: maedaxd@gmail.com
