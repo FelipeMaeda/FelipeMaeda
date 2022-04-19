@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m DevOps Engineer at Alelo.
 - 🌱 I’m currently learning OpenShift, Terraform, Ansible, Python Scripts, culture DevOps and agile methods.
-- 🤔 I’m looking for help with English (i dont have a good english).
-- 💬 Ask me about any thing.
+- 🤔 I’m looking for help with English (i dont speak english that well).
+- 💬 Ask me about anything.
 - 📫 How to reach me: maedaxd@gmail.com
 - ⚡ Fun fact: i love my job.
 
