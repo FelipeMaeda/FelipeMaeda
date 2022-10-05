@@ -1,6 +1,6 @@
 ### Hii there! 👋👋👋
 
-I'm Felipe Maeda, currently working at O2B, a K8S project consulting company in Brazil. I like to program in Python and I've produced BackEnd programs in university activities. At the moment i'm studying Golang and i want to improve automations in my Working.
+I'm Felipe Maeda, currently working at O2B, a K8S project consulting company in Brazil. I like to program in Python and Go. I've produced BackEnd programs in university activities. At the moment i'm studying Golang and i want to improve automations in my Working.
 
 <!--
 **FelipeMaeda/felipemaeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
