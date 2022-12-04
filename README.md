@@ -1,6 +1,6 @@
 ### Hii there! 👋👋👋
 
-I'm Felipe Maeda, currently working at O2B, a K8S project consulting company in Brazil. I like to program in Python and Go. I've produced BackEnd programs in university activities. At the moment i'm studying Golang and i want to improve automations in my Working.
+I'm Felipe Maeda, currently working at O2B as DevOps Engineer, a K8S project consulting company in Brazil. I like to create CI/CD atuomations and provisione Cloud Environments with Terraform (Azure and AWS). In addition i like to program scripts in Python and Go and I've produced BackEnd programs in university activities. At the moment i'm studying Golang and i want to improve knowledge about DevOps in my Work.
 
 <!--
 **FelipeMaeda/felipemaeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m Site Reliability Engineer at O2B.
+- 🔭 I’m DevOps Engineer at O2B.
 - 🤔 I’m looking for help with English (i dont speak english that well).
 - 💬 Ask me about anything.
 - 📫 How to reach me: maedaxd@gmail.com
