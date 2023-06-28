@@ -32,9 +32,6 @@ Here are some ideas to get you started:
       <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FelipeMaeda&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=FelipeMaeda&theme=radical&hide_border=true&background=0D1117" />
 
-# ![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipemaeda&show_icons=true&theme=jolly)
-# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipemaeda&layout=compact&theme=jolly)](https://github.com/FelipeMaeda/github-readme-stats)
-
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
