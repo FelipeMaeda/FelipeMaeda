@@ -17,21 +17,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m DevOps Engineer at O2B.
+- 🔭 I’m DevOps Engineer at Embraer.
 - 💬 Ask me about anything.
 - 📫 How to reach me: maedaxd@gmail.com
 - ⚡ Fun fact: i love my job.
 
-
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
-
 <p align="center">
 <a href="https://github.com/FelipeMaeda">
       <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FelipeMaeda&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=FelipeMaeda&theme=radical&hide_border=true&background=0D1117" />
-
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
